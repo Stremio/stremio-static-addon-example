@@ -5,8 +5,8 @@
         "source": "**",
         "headers": [
           {
-            "key": "server",
-            "value": "pew"
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
           }
         ]
       }
