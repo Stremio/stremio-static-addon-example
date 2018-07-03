@@ -1,0 +1,14 @@
+{
+  "id": "com.stremio.example",
+  "name": "Now.sh Example",
+  "description": "Example Add-on",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "BigBuckBunnyCatalog",
+      "name": "Big Buck Bunny Catalog"
+    }
+  ]
+}

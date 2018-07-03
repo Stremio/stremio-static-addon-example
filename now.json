@@ -1,0 +1,15 @@
+{
+  "static": {
+    "headers": [
+      {
+        "source": "**",
+        "headers": [
+          {
+            "key": "server",
+            "value": "pew"
+          }
+        ]
+      }
+    ]
+  }
+}
