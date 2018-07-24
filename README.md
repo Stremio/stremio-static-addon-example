@@ -8,7 +8,7 @@ You can test this example add-on by adding the GitHub Pages URL:
 
 `https://stremio.github.io/stremio-static-addon-example/`
 
-as the Add-on Repository URL
+as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url)
 
 ## Using with Now.sh
 
@@ -33,7 +33,7 @@ cd stremio-static-addon-example
 $ now
 ```
 
-- Use the URL that `now` will print to the console as the Add-on Repository URL
+- Use the URL that `now` will print to the console as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url)
 
 ### Don't know where to add the Add-on Repository URL?
 
