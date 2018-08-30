@@ -42,7 +42,7 @@ $ now
 > Deployment complete!
 ```
 
-In which case, we'll use `https://stremio-static-addon-example-ijshgdlgoe.now.sh/manifest` as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url) to load our add-on in Stremio
+In which case, we'll use `https://stremio-static-addon-example-ijshgdlgoe.now.sh/manifest.json` as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url) to load our add-on in Stremio
 
 
 ### Don't know where to add the Add-on Repository URL?
