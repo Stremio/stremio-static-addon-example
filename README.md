@@ -2,13 +2,15 @@
 
 This repository is an example of static add-ons for Stremio.
 
+
 ## Using with GitHub Pages
 
 You can test this example add-on by adding the GitHub Pages URL:
 
-`https://stremio.github.io/stremio-static-addon-example/`
+`https://stremio.github.io/stremio-static-addon-example/manifest.json`
 
 as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url)
+
 
 ## Using with Now.sh
 
@@ -33,7 +35,15 @@ cd stremio-static-addon-example
 $ now
 ```
 
-- Use the URL that `now` will print to the console as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url)
+- Now will typically print a message similar to:
+
+```
+> https://stremio-static-addon-example-ijshgdlgoe.now.sh [in clipboard] [3s]
+> Deployment complete!
+```
+
+In which case, we'll use `https://stremio-static-addon-example-ijshgdlgoe.now.sh/manifest` as the [Add-on Repository URL](https://github.com/Stremio/stremio-static-addon-example/blob/master/README.md#dont-know-where-to-add-the-add-on-repository-url) to load our add-on in Stremio
+
 
 ### Don't know where to add the Add-on Repository URL?
 
