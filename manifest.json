@@ -1,6 +1,7 @@
 {
-  "id": "com.stremio.example",
-  "name": "Now.sh Example",
+  "id": "com.stremio.nowexample8",
+  "version": "0.0.1",
+  "name": "Now.sh Example 8",
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
