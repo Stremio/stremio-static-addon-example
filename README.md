@@ -35,7 +35,7 @@ cd stremio-static-addon-example
 $ now
 ```
 
-- Now will typically print a message similar to:
+- `now.sh` will typically print a message similar to:
 
 ```
 > https://stremio-static-addon-example-ijshgdlgoe.now.sh [in clipboard] [3s]
