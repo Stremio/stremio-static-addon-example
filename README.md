@@ -2,6 +2,15 @@
 
 This repository is an example of static add-ons for Stremio.
 
+## Testing locally
+
+When testing locally, you can use a local server, but it's really important that you set the cache times to very low values (or 0) so that caching does not interfere with your development. Enabling CORS is also needed.
+
+For example, with `http-server` from npm:
+
+```
+PORT=8081 http-server dist --cors -c-1
+```
 
 ## Using with GitHub Pages
 
